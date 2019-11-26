@@ -19,3 +19,4 @@ References
 -----------
 .. [#] Cox, D. R. (1972). Regression models and life‐tables. _Journal of the Royal Statistical Society: Series B (Methodological)_, _34_(2), 187-202.
 .. [#] Andersen, P. K., & Gill, R. D. (1982). Cox's regression model for counting processes: a large sample study. _The annals of statistics_, 1100-1120.
+.. [#] https://cran.r-project.org/web/packages/survival/survival.pdf

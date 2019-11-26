@@ -3,7 +3,7 @@ In this section we show two simple examples of the Cox model and how to implemen
 
 ## NCCTG Lung Cancer Data
 These data are from the R survival package on survival in patients with advanced lung cancer from the North Central Cancer Treatment Group. This is a simple example with fixed covariate effects.
-For details see [^3].
+For details see [#]_ .
 
 ```python
 # Importing modules
@@ -146,5 +146,5 @@ with tf.Session() as sess:
         bh, t = sess.run(bhazard,  feed_dict={surv_: Surv, X_: X})
 plt.step(t[:], np.cumsum(bh))
 ```
-[^3]: https://cran.r-project.org/web/packages/survival/survival.pdf
+
 ----------

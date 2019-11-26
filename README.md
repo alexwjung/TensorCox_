@@ -11,7 +11,7 @@ Since the algorithm is fully written in Tensorflow it is easy to integrate it in
 
 ## Documentation
 
-Documentation for TensorCox is available at .....
+Documentation for TensorCox is available at https://tensorcox.readthedocs.io/en/latest/
 
 ## References
 
