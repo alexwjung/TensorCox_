@@ -8,6 +8,6 @@ setup(name='tensorcox',
       author_email='alexwjung@googlemail.com',
       license='MIT',
       packages=['tensorcox', 'tensorcox.test'],
-      install_requires=['Tensorflow'],
+      install_requires=['tensorflow', 'numpy'],
       long_description=open('README.txt').read(),
       zip_safe=False)
