@@ -1,0 +1,2 @@
+;sample_size;parameters;censoring;batch_size;concordance;RMSE_se;RMSE_theta
+0;10000.0;100.0;0.5;5000.0;0.7433297275580313;0.0002633234848649114;0.14201212582839418
